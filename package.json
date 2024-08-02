@@ -1,13 +1,11 @@
 {
-  "name": "1234t_to-dos",
+  "name": "3_todolist_by_hafsa",
   "version": "1.0.0",
   "description": "to do list maker for your daily work",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
+  "bin": "app.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
